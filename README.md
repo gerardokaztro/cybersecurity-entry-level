@@ -37,4 +37,5 @@ Este curso proporciona una revisión integral de los conceptos de seguridad de l
 
 ### Día 1: PRINCIPIOS DE SEGURIDAD `PRIMERA CLASE`
 
-#### Clase en directo: Sábado 27 de Abril en [Twitch](https://twitch.tv/awssecuritylatam) Hora por definir.
+#### Clase en directo: Sábado 29 de Abril en [Twitch](https://twitch.tv/awssecuritylatam) Hora por definir.
+
