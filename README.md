@@ -33,8 +33,8 @@ Este curso proporciona una revisión integral de los conceptos de seguridad de l
 - Operaciones de seguridad
 
 ## Calendario
+> Cada semana un dominio de seguridad distinto
 
-> Cada semana un día dedicado a un nuevo lenguaje
 ### Día 1: PRINCIPIOS DE SEGURIDAD `PRIMERA CLASE`
 
 #### Clase en directo: Sábado 27 de Abril en [Twitch](https://twitch.tv/awssecuritylatam) Hora por definir.
