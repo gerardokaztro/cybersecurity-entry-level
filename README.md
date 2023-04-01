@@ -80,7 +80,7 @@ Soy Cloud Security Engineer...
 ### **Te invito a conectar conmigo** 🤝🏻 &nbsp;
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVWjwOiJGog7Km90-ayFESg?style=social)](https://www.youtube.com/channel/UCmWuXyjXOJOpikS4MHmJAcQ?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/gerardokaztro?label=Follow%20me%20on%20Twitch&style=social)](https://www.twitch.tv/awssecuritylatam)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gerardokaztro?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/gerardokaztro?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/gerardokaztro?style=social)
 
