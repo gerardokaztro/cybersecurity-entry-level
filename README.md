@@ -3,7 +3,7 @@
 
 ![banner](./img/ciberseguridad.png)
 
-### Este curso será transmitido en directo desde el canal de 📺 [Twitch](https://twitch.tv/awssecuritylatam) de la comunidad [AWS Security Community](https://bit.ly/youtube-awsseclatam). Cada Sábado, iniciando desde el 29 de Abril, abordaré un dominio de seguridad. En total serám 5 dominios los que seran cubiertos en este curso.
+### Este curso será transmitido en directo desde el canal de 📺 [Twitch](https://twitch.tv/awssecuritylatam) de la comunidad [AWS Security Community](https://bit.ly/youtube-awsseclatam). Cada Sábado, desde el 29 de Abril, abordaré un dominio de seguridad distinto.
 
 > #### Si te gusta este curso y quieres apoyarme, por favor regalale un "⭐️ Star" al repositorio. Gracias 🙌
 
@@ -26,10 +26,15 @@ El objetivo general de este curso es que puedas dar tus primeros pasos en cibers
 Este curso proporciona una revisión integral de los conceptos de seguridad de los sistemas de información, las mejores prácticas de la industria y la terminología, que cubre los cinco dominios que a su vez, son incluidos en el esquema del examen [Certified in Cybersecurity](https://www.isc2.org/certified-in-cybersecurity):
 
 1️⃣ Principios de seguridad
+
 2️⃣ Conceptos de Respuestas a incidentes, Continuidad del negocio y Recuperación ante desastres
+
 3️⃣ Control de acceso
+
 4️⃣ Seguridad de la red
+
 5️⃣ Operaciones de seguridad
+
 
 ## Calendario
 > Cada semana aprenderemos un dominio de seguridad distinto
@@ -71,12 +76,12 @@ Probablemente si. Al decir verdad, estamos pensando subir una version editada a 
 
 Si quieres unirte a AWS Security Community, aprender sobre seguridad, servicios de AWS, mejorar tus habilidades, conocer y ayudar a la comunidad del puedes encontrarnos en:
 
-[![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/awssecuritylatam)
+[![Twitch](https://img.shields.io/badge/Clases-en-Directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/awssecuritylatam)
 
-[![Mi sitio web](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://gerardokaztro.com)
+[![Mi sitio web](https://img.shields.io/badge/Mi-sitio-web-gerardokaztro.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://gerardokaztro.com)
 
 ## Hola, mi nombre es Gerardo Castro 👋🏻
-### Cloud Security Engineer
+Soy Cloud Security Engineer...
 
 ### **Te invito a conectar conmigo** 🤝🏻 &nbsp;
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVWjwOiJGog7Km90-ayFESg?style=social)](https://www.youtube.com/channel/UCmWuXyjXOJOpikS4MHmJAcQ?sub_confirmation=1)
