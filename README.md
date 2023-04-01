@@ -74,12 +74,6 @@ Probablemente si. Al decir verdad, estamos pensando subir una version editada a 
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
-Si quieres unirte a AWS Security Community, aprender sobre seguridad, servicios de AWS, mejorar tus habilidades, conocer y ayudar a la comunidad del puedes encontrarnos en:
-
-[![Twitch](https://img.shields.io/badge/Clases-en-Directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/awssecuritylatam)
-
-[![Mi sitio web](https://img.shields.io/badge/Mi-sitio-web-gerardokaztro.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://gerardokaztro.com)
-
 ## Hola, mi nombre es Gerardo Castro 👋🏻
 Soy Cloud Security Engineer...
 
