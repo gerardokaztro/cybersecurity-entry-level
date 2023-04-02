@@ -19,7 +19,7 @@ No hay pre-requisitos para este curso ya que es de nivel introductorio.
 - Profesionales de TI
 - Profesionales de cualquier área
 
-## Objetivos del curso
+## Objetivo general del curso
 El objetivo general de este curso es que puedas dar tus primeros pasos en ciberseguridad comprendiendo los conceptos que maneja un profesional de esta área en el día a día. Para aprender ciberseguridad es necesario entender cada uno de los dominios que esta tiene, de los cuales, vamos a cubrir solamente cinco de ellos. La idea es no saturar de información a quienes vienen por primera vez e intentan aprender de esta apasionante profesión y que el curso no sea tan largo, ya que su mayor cuota es de conceptoos. ¿Qué seguirá después?, bueno, si el interés a este proyecto es la esperada, podemos hacer un siguiente curso con mas nivel y usando diferentes tecnologias de la industria, todo va a depender de ustedes 😉
 
 ## Temario:
