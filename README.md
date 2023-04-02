@@ -33,7 +33,7 @@ Este curso proporciona una revisión integral de los conceptos de seguridad de l
 
 4️⃣ Seguridad de la red
 
-5️⃣ Operaciones de seguridad
+5️⃣ Seguridad de operaciones
 
 
 ## Calendario
