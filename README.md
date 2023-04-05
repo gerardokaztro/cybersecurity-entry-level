@@ -44,16 +44,20 @@ Este curso proporciona una revisión integral de los conceptos de seguridad de l
 ##### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam). La hora está aún por definir.
 
 ### `SEGUNDA CLASE`
-> ##### Próximamente...
+#### Sábado 29 de Abril: CONCEPTOS DE RESPUESTA A INCIDENTES, CONTINUIDAD DEL NEGOCIO Y RECUPERACIÓN ANTE DESASTRES
+##### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam). La hora está aún por definir.
 
 ### `TERCERA CLASE`
-> ##### Próximamente...
+#### Sábado 29 de Abril: CONCEPTOS DE CONTROL DE ACCESO
+##### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam). La hora está aún por definir.
 
 ### `CUARTA CLASE`
-> ##### Próximamente...
+#### Sábado 29 de Abril: SEGURIDAD DE LA RED
+##### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam). La hora está aún por definir.
 
 ### `ÚLTIMA CLASE`
-> ##### Próximamente...
+#### Sábado 29 de Abril: SEGURIDAD DE OPERACIONES
+##### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam). La hora está aún por definir.
 
 ## Preguntas frecuentes
 
