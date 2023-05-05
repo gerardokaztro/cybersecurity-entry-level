@@ -41,23 +41,28 @@ Este curso proporciona una revisión integral de los conceptos de seguridad de l
 
 ### `PRIMERA CLASE`
 #### Sábado 29 de Abril: PRINCIPIOS DE SEGURIDAD
-##### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam). La hora está aún por definir.
+##### Hora 10am GMT-5
+###### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam).
 
 ### `SEGUNDA CLASE`
-#### Sábado 29 de Abril: CONCEPTOS DE RESPUESTA A INCIDENTES, CONTINUIDAD DEL NEGOCIO Y RECUPERACIÓN ANTE DESASTRES
-##### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam). La hora está aún por definir.
+#### Sábado 06 de Mayo: CONCEPTOS DE RESPUESTA A INCIDENTES, CONTINUIDAD DEL NEGOCIO Y RECUPERACIÓN ANTE DESASTRES
+##### Hora 10am GMT-5
+###### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam).
 
 ### `TERCERA CLASE`
-#### Sábado 29 de Abril: CONCEPTOS DE CONTROL DE ACCESO
-##### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam). La hora está aún por definir.
+#### Sábado 13 de Mayo: CONCEPTOS DE CONTROL DE ACCESO
+##### Hora 10am GMT-5
+###### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam).
 
 ### `CUARTA CLASE`
-#### Sábado 29 de Abril: SEGURIDAD DE LA RED
-##### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam). La hora está aún por definir.
+#### Sábado 20 de Mayo: SEGURIDAD DE LA RED
+##### Hora 10am GMT-5
+###### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam).
 
 ### `ÚLTIMA CLASE`
-#### Sábado 29 de Abril: SEGURIDAD DE OPERACIONES
-##### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam). La hora está aún por definir.
+#### Sábado 27 de Mayo: SEGURIDAD DE OPERACIONES
+##### Hora 10am GMT-5
+###### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam).
 
 ## Preguntas frecuentes
 
@@ -84,7 +89,7 @@ Soy Cloud Security Engineer...
 ### **Te invito a conectar conmigo** 🤝🏻 &nbsp;
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVWjwOiJGog7Km90-ayFESg?style=social)](https://www.youtube.com/channel/UCmWuXyjXOJOpikS4MHmJAcQ?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/gerardokaztro?label=Follow%20me%20on%20Twitch&style=social)](https://www.twitch.tv/awssecuritylatam)
-[![Twitter Follow](https://img.shields.io/twitter/follow/gerardokaztro?style=social)](https://twitter.com/mouredev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gerardokaztro?style=social)](https://twitter.com/gerardokaztro)
 ![GitHub Followers](https://img.shields.io/github/followers/gerardokaztro?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/gerardokaztro?style=social)
 
