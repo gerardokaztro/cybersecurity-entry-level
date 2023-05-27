@@ -60,7 +60,7 @@ Este curso proporciona una revisión integral de los conceptos de seguridad de l
 ###### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam).
 
 ### `ÚLTIMA CLASE`
-#### Sábado 27 de Mayo: SEGURIDAD DE OPERACIONES
+#### Próximamente: SEGURIDAD DE OPERACIONES
 ##### Hora 10am GMT-5
 ###### Clase en directo por [Twitch](https://twitch.tv/awssecuritylatam).
 

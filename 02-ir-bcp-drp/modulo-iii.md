@@ -1,2 +1,2 @@
-# Módulo 3: Comprender los controles de seguridad
+# Módulo 3: Plan de recuperación ante desastres
 Proximanente...
